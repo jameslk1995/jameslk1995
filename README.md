@@ -5,7 +5,7 @@ h1 align="center">Hi 👋, I'm James Kennedy</h1>
 
 - 🌱 I’m currently learning **Microsoft Azure and cloud computing**
 
-- 📝 I have published academic papers using ML to generate new insights in geology! (http://lnkiy.in/i-hate-sand)
+- 📝 I have published academic papers using ML to generate new insights in geology! (https://www.researchgate.net/profile/James-Lovell-Kennedy)
 
 - 💬 Ask me about **Python, Data Science and Quantitative Research!**
 
