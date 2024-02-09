@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm James Kennedy</h1>
+<h1 align="center">Hi 👋, I'm James Kennedy</h1>
 <h3 align="center">A Data Scientist and Researcher from the UK.</h3>
 
 - 🔭 I’m currently working on **leveraging Data Science and ML to predict unemployment trends and help get people back into work!**
